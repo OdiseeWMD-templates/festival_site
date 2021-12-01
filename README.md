@@ -2,12 +2,12 @@
 
 URL: [vul hier zelf de URL in waar je website gehost is!] 
 
-# Vervangopdracht deel 1 : Festivalsite
+# Vervangopdracht deel 1 : Festivalwebsite
 Maak een website voor het fictieve festival __OdiseeRockt__. Zorg ervoor dat deze website volledig responsief is.
 
 ## Verwachte pagina's
 Op de website verwachten we minimaal onderstaande items:
-* Een aantrekkelijke welkomstpagina met het de belangrijkste items
+* Een aantrekkelijke welkomstpagina met de belangrijkste items
 * Een pagina met info over de tickets. Tickets kunnen enkel op de campus in Brussel aangekocht worden. Het is dus niet de bedoeling dat je een online ticket-verkoop voorziet.
 * De line-up, het festival duurt 2 dagen en beschikt slechts over 1 podium. 
   * Wanneer op een artiest/band geklikt wordt, willen we de details van deze band terug vinden. Dit hoef je slechts voor 1 band/artiest te maken. Zorg er wel voor dat elke band/artiest een link bevat die naar de pagina van je gekozen artiest gaat.
