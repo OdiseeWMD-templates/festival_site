@@ -39,4 +39,4 @@ Plaats je website online. Zorg dat deze minstens tot eind januari online blijft 
 * Respecteer de deadline => Te laat ingediend resulteert in een 0 score voor deze taak
 * Werk individueel! Dit is een individuele opdracht. Elke vorm van samenwerken wordt beschouwd als fraude.
 ## Deadline
-10/01/2022
+09/01/2022 23:59
