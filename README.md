@@ -2,7 +2,7 @@
 
 URL: [vul hier zelf de URL in waar je website gehost is!] 
 
-# Vervangopdracht deel 1 : Festivalsite
+# Vervangopdracht deel 1 : Festivalwebsite
 Maak een website voor het fictieve festival __OdiseeRockt__. Zorg ervoor dat deze website volledig responsief is.
 
 ## Verwachte pagina's
